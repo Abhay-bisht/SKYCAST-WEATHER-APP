@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌦️ Weather App
 
 A lightweight Weather App built with **JavaScript**, **HTML**, and **CSS**, utilizing the **OpenWeather API** to fetch real-time weather data.
@@ -61,3 +62,6 @@ Interested in contributing? Check out the [Contribution Guide](https://github.co
 For any queries or collaborations, connect with me on [**LinkedIn**](https://www.linkedin.com/in/avinash-singh-071b79175) — always happy to chat! 🤝  
 
 ---
+=======
+# SKYCAST-WEATHER-APP
+>>>>>>> 3280bfda1090769105e49abb4adb56459859be8f
